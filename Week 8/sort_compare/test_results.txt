@@ -1,0 +1,39 @@
+Size:30
+
+Quick Sort time is:0.0
+
+Insertion Sort time is:0.0
+
+Merge Sort time is:0.0004999637603759766
+
+Size:300
+
+Quick Sort time is:0.000499725341796875
+
+Insertion Sort time is:0.012004613876342773
+
+Merge Sort time is:0.002000093460083008
+
+Size:3000
+
+Quick Sort time is:0.011999845504760742
+
+Insertion Sort time is:1.2902507781982422
+
+Merge Sort time is:0.030002355575561523
+
+Size:30000
+
+Quick Sort time is:0.15603065490722656
+
+Insertion Sort time is: > 1
+
+Merge Sort time is:0.4110689163208008
+
+Size:300000
+
+Quick Sort time is:2.0825376510620117
+
+Insertion Sort time is: > 1
+
+Merge Sort time is:4.889479637145996

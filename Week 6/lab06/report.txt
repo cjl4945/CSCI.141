@@ -1,0 +1,8 @@
+Chase Lewis 
+CSCI-141
+
+1. The purpose pivot is to find the middle index of an unsorted list. You don't have to chose the middle item as the pivot, but it makes the function run more efficiently and quicker. It would behave differently because the function would infinitely return quickselect(largerlist, k - m - count) while m = 0 and count equals 0.
+2. For ex. To find the 5th smallest value, you’d need to pass in the parameters: list and k(kth smallest number) or 5. The list should be unsorted to fully test the speed of the function. Some cases would quickselect(list,6); quickselect(list,2); quickselect(list,8). While list would equal [3,4,21,56,34,5,8,39,80]
+3. 
+quickselect : 1.) 0.005866244999566725 2.) 0.005874561728506018 3.) 0.005816612907509657 
+Median 1.)0.04645832098120231 2.) 0.047074027204288646 3.)0.05250377807533185
